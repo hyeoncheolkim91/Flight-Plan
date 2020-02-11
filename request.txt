@@ -1,0 +1,4 @@
+3
+Dallas|Frankfurt|C
+Frankfurt|Dallas|T
+Austin|London|C

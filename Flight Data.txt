@@ -1,0 +1,13 @@
+12
+Dallas|Austin|60|120
+Dallas|Houston|70|150
+Dallas|Costa Rica|175|480
+Austin|Dallas|65|130
+Austin|Costa Rica|180|410
+Costa Rica|Frankfurt|245|650
+Austin|London|230|590
+Austin|Frankfurt|180|630
+Frankfurt|London|40|125
+London|Houston|210|540
+Houston|Costa Rica|180|420
+Costa Rica|Austin|180|420
